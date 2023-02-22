@@ -141,7 +141,7 @@ Fontes: [src](Unidade3/src "src")
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
   
 ### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades") Prazo:   26-03-2023  domingo
-0  
+  
 - [atividadeUri](Unidade3/atividadeUri.md "atividadeUri");  
 - [atividadeAula](Unidade3/atividadeAula.md "atividadeAula");  
 - assistir a videoaula da Unidade4.  
@@ -174,7 +174,7 @@ Fontes: [src](Unidade4/src "src")
 - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf");  
 - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
   
-### [Aula_16](Unidade4/aula.md#Aula_16 “  03-04-2023  segunda-feira  ")  03-04-2023  segunda-feira
+### [Aula_16](Unidade4/aula.md#Aula_16 "  03-04-2023  segunda-feira  ")  03-04-2023  segunda-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
