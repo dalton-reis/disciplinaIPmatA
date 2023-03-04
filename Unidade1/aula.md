@@ -4,14 +4,14 @@
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
 [PlanoEnsinoAVA]: <> "PlanoEnsinoAVA"  
-[ApresentacaoProfessor]: <https://github.com/dalton-reis/dalton-reis/blob/main/README.md> "Apresentação do Professor"  
+[ApresentacaoProfessor]: <> "Apresentação do Professor"  
 
 # Algumas anotações das aulas
 
 Mensagem "do dia", do programador ...  
-    Deseja conhecer um pouco sobre mais sobre o setor de informática na região ..  
-    Se increva e assita os PodCast  
-    [Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
+    Deseja conhecer um pouco mais sobre o setor de informática na região ..  
+    Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
+    ![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
 
 ## Rabiscos
 
@@ -27,7 +27,7 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 
 ## FURB
 
-[Materiais](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/furb.md> "Materiais")  
+[Materiais FURB](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/furb.md> "Materiais FURB")  
 
 ## [ApresentacaoProfessor]
 
@@ -246,8 +246,8 @@ Não usado __
 
 Entrada __  
     // ter a largura e altura  
-    largura = 3  
-    altura = 7  
+    altura = 3  
+    largura = 5  
 
 Processo __  
     // calcular a área  retangular  

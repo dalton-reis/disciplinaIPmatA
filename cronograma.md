@@ -1,9 +1,9 @@
 <!-- [@]TODO:INICIO atualizar -->
-[Unidade1_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=736649> "Unidade1_Questionário"
+[Unidade1_Questionário]: <> "Unidade1_Questionário"
 
-[Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=736647> "Unidade2_Questionário"
+[Unidade2_Questionário]: <> "Unidade2_Questionário"
 
-[Unidade3_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=736644> "Unidade3_Questionário"
+[Unidade3_Questionário]: <> "Unidade3_Questionário"
 [Unidade3_RespostasAtividadeAula]: < > "Unidade3_RespostasAtividadeAula"
 [Unidade3_RespostasAtividadeURI]: < > "Unidade3_RespostasAtividadeURI"
 
@@ -13,11 +13,11 @@
 
 [Prova1_Respostas_parteA]: < > "Prova1_Respostas_parteA"
 
-[Unidade5_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=736637> "Unidade5_Questionário"
+[Unidade5_Questionário]: <> "Unidade5_Questionário"
 [Unidade5_RespostasAtividadeAula]: < > "Unidade5_RespostasAtividadeAula"
 [Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI"
 
-[Unidade6_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=736634> "Unidade6_Questionário"
+[Unidade6_Questionário]: <> "Unidade6_Questionário"
 [Unidade6_RespostasAtividadeAula]: < > "Unidade6_RespostasAtividadeAula"
 [Unidade6_RespostasAtividadeURI]: <> "Unidade6_RespostasAtividadeURI"
 
@@ -26,7 +26,7 @@
 [TrabalhoFinal_DefinirEquipes]: < > "TrabalhoFinal_DefinirEquipes"
 [TrabalhoFinal_entrega]: < > "TrabalhoFinal_entrega"
 
-[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=34278&section=1> "PlanoEnsinoAVA"  
+[PlanoEnsinoAVA]: <> "PlanoEnsinoAVA"  
 
 <!-- Cronograma da planilha-->
 
@@ -264,7 +264,7 @@ Fontes: [src](Unidade5/src "src")
   
 ### [Aula_28](Unidade5/aula.md#Aula_28 "  01-05-2023  segunda-feira  ")  01-05-2023  segunda-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
+Feriado: Dia do Trabalhador  
   
 ### [Aula_29](Unidade5/aula.md#Aula_29 "  03-05-2023  quarta-feira  ")  03-05-2023  quarta-feira
   
