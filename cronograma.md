@@ -302,7 +302,7 @@ Feriado: Dia do Trabalhador
   
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:   14-05-2023  domingo
   
-<!-- [FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); -->  
+<!-- FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); -->  
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
 - assistir as videoaulas da Unidade6;  
 - responder o [Unidade6_Questionário].  
