@@ -14,7 +14,7 @@ Para instalar o Java acesse o link
 
 [JavaDownLoad].  
 
-Selecionar Temurin 11 (LTS) ou uma versão mais recente. Clique no Último Lançamento, e assim irá baixar um arquivo .msi. Depois dê dois clicks no arquivo, … e alguns next … mas ATENÇÃO … se aparecer uma janela deste tipo
+Selecionar Temurin 21 (LTS) ou uma versão mais recente. Clique no Último Lançamento, e assim irá baixar um arquivo .msi. Depois dê dois clicks no arquivo, … e alguns next … mas ATENÇÃO … se aparecer uma janela deste tipo
 
 ![Path do Java](../imgs/OpenJDKpath.png "Path do Java")
 
@@ -72,13 +72,13 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 
 ### VSCode
 
-<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/VSCode>  
+<https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/VSCode>  
 
 ### GIT (Controlador de Versão)
 
 E outro extensão que pode ser usada no VSCode permite "versionar" códigos após ter instalado o GIT. Todo o conteúdo de aula, inclusive os códigos de exemplo, serão disponibilizados na rede social mais adorada pelos nerds do mundo todo: o [Github!](<https://github.com>) Para mais informações:
 
-Um pouco sobre Versionamento de código pode ser visto em: <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git>.  
+Um pouco sobre Versionamento de código pode ser visto em: <https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/Git>.  
 
 <!-- [FIXME:]
 Para começar, comente abaixo apresentando-se e conte-nos o que você faz na área da computação.
@@ -90,6 +90,26 @@ Para começar, comente abaixo apresentando-se e conte-nos o que você faz na ár
 
 Para se aprofundar mais em Java tem a documentação oficial do OpenJDK:
 [<http://devdocs.io/openjdk/>](<http://devdocs.io/openjdk/> "Documentação do OpenJDK")
+
+## Ambiente de Desenvolvimento Versão Web
+
+[https://vscode.dev/](<https://vscode.dev/>)  
+
+Também existe a opção de usar o VSCode usando um Navegador Web (Browser), mas aconselho a só usar como um "plano B". Acredito que a opção [IDE Desktop](#ambiente-de-desenvolvimento-pr%C3%A1tico) seja mais indicada.  
+
+## AI Tools in VS Code  
+
+E por fim, mas não menos importante de se comentar o uso ou não de "facilitadores" para auto-completar códigos. Bom, exitem muitas opções, e pensando assim será que ainda precisaria "**perder**" tempo aprendendo a programar.  
+
+É algo para se pensar ... e cuidem com o "Dilema do Exterminador do Futuro".  
+
+Vejam, toda tecnologia (ferramenta etc.) que possa auxiliar o processo de desenvolvimento sempre é bem vinda. Até mesmo porque senão estaríamos agora programando usando "catões perfurados".  
+
+É uma conversa longa que explicarei melhor em aula ... mas basicamente a disciplina de Introdução à Programação não é só para gerar programas, mas sim exercitar todo o processo lógico necessário para o Pensamento Computacional.  
+Lembrem, se fossem assim, não se precisaria mais ensinar matemática pois com certeza os computadores fazem (ou farão a curto prazo) contas melhores que os humanos.  
+
+VSCode: <https://code.visualstudio.com/docs/editor/artificial-intelligence>  
+GitHub Copilot extension: <https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>  
 
 ## Outras opções
 

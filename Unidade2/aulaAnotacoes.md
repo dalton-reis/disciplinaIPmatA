@@ -30,7 +30,7 @@ Favor responder o [formulário](<https://forms.office.com/Pages/ResponsePage.asp
 - Como salvar arquivos (após salvar com a extensão correta o VSCode compreende que é código Java)  
 - Terminal: visualizar respostas, limpar, reiniciar  
 - Como depurar código e visualizar as variáveis  
-- Vídeo: o que é uma IDE? <https://youtu.be/GPcIjsz-2cA>
+- Vídeo: o que é uma IDE? <https://youtu.be/GPcIjsz-2cA>  
 
 ## Nomenclaturas  
 
@@ -128,8 +128,6 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 
 Vamos praticar um pouco com alguns enunciados ...  
 
-
 ## Ambiente de Desenvolvimento Prático - Apoio
 
 - [ ] [Ambiente de Desenvolvimento Prático](../Unidade1/IDE.md "Ambiente de Desenvolvimento Prático").  
-
