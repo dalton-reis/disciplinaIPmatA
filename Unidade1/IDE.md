@@ -64,22 +64,34 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 
 - este texto é a mensagem que foi definida no programa "App.java" para ser escrito para o usuário … e … meus parabéns, já tens o PRIMEIRO programa em Java 😉.
 
-## Ambiente de Desenvolvimento Versão Web
+## VSCode Inlay Hints
 
-[https://vscode.dev/](<https://vscode.dev/>)  
+[VSCode: Inlay hints](vscodeInlayHints.md)  
 
-Também existe a opção de usar o VSCode usando um Navegador Web (Browser), mas aconselho a só usar como um "plano B". Acredito que a opção [IDE Desktop](#ambiente-de-desenvolvimento-pr%C3%A1tico) seja mais indicada.  
+## VSCode - para saber mais
 
-## AI Tools in VS Code  
+### VSCode
 
-E por fim, mas não menos importante de se comentar o uso ou não de "facilitadores" para auto-completar códigos. Bom, exitem muitas opções, e pensando assim será que ainda precisaria "**perder**" tempo aprendendo a programar.  
+<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/VSCode>  
 
-É algo para se pensar ... e cuidem com o "Dilema do Exterminador do Futuro".  
+### GIT (Controlador de Versão)
 
-Vejam, toda tecnologia (ferramenta etc.) que possa auxiliar o processo de desenvolvimento sempre é bem vinda. Até mesmo porque senão estaríamos agora programando usando "catões perfurados".  
+E outro extensão que pode ser usada no VSCode permite "versionar" códigos após ter instalado o GIT. Todo o conteúdo de aula, inclusive os códigos de exemplo, serão disponibilizados na rede social mais adorada pelos nerds do mundo todo: o [Github!](<https://github.com>) Para mais informações:
 
-É uma conversa longa que explicarei melhor em aula ... mas basicamente a disciplina de Introdução à Programação não é só para gerar programas, mas sim exercitar todo o processo lógico necessário para o Pensamento Computacional.  
-Lembrem, se fossem assim, não se precisaria mais ensinar matemática pois com certeza os computadores fazem (ou farão a curto prazo) contas melhores que os humanos.  
+Um pouco sobre Versionamento de código pode ser visto em: <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git>.  
 
-VSCode: <https://code.visualstudio.com/docs/editor/artificial-intelligence>  
-GitHub Copilot extension: <https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>  
+<!-- [FIXME:]
+Para começar, comente abaixo apresentando-se e conte-nos o que você faz na área da computação.
+
+- <https://github.com/dalton-reis/IP_Noturno_2023_2/discussions>
+-->
+
+### OpenJDK Documentation
+
+Para se aprofundar mais em Java tem a documentação oficial do OpenJDK:
+[<http://devdocs.io/openjdk/>](<http://devdocs.io/openjdk/> "Documentação do OpenJDK")
+
+## Outras opções
+
+Bom, existem muitas opções, e obviamente com o tempo vocês mesmo conseguiram decidir quais são melhores.
+E sempre aparecem mais e mais, sempre com novidades "futurísticas" (_I'll be back_!!).
